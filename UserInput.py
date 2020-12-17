@@ -6,8 +6,7 @@
 Name=input("Enter your name:")
 
 Age=input('Enter age:')
-print(Name)
-print(Age)
+print("Your Name is:",Name,"and your age is:",Age)
 
 # User input Narok Tunai
 # Enter your County-Narok
@@ -19,7 +18,8 @@ print(Age)
 County=input('My County is:')
 Governor=input('My Governor is:')
 print("My County is:", County)
-print("My Governor is:", Governor)
+print('My County Is:',County, 'My Governor is:',Governor)
+#print("My Governor is:", Governor)
 
 
 

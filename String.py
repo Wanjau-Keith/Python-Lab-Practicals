@@ -6,8 +6,11 @@
 # Assigning memeory location a value;
 # str Name;
 # Name=Nelly
+# Data types
 M='Kelly'
+M='Kibet'
 N=23
+N=33
 print(M)
 print(N)
 # + is a concatenation operator when used to join two strings e.g
