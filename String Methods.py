@@ -5,6 +5,7 @@ print('My new car'.upper())
 print("MY NEW CAR".casefold())
 # center()	Returns a centered string
 
+
 # count()	Returns the number of times a specified value occurs in a string
 print("Python also has many built-in functions that"
       " returns a boolean value, like"
@@ -36,7 +37,9 @@ print('Breakfast'.index("B"))
 # isprintable()	Returns True if all characters in the string are printable
 # isspace()	Returns True if all characters in the string are whitespaces
 # istitle()	Returns True if the string follows the rules of a title
+print("Fall Out".istitle())
 # isupper()	Returns True if all characters in the string are upper case
+print('KELLY Wanjau'.isupper())
 # join()	Joins the elements of an iterable to the end of the string
 # ljust()	Returns a left justified version of the string
 # lower()	Converts a string into lower case
